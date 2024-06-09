@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Object
+comment0.text=\r\n\ Object\ -\ Actor\ class\ that\ is\ hitted\ around\ multiple\ times,\ can\ be\ \r\n\ controlled\ and\ hit\ with\ the\ hit\ button\r\n\ \r\n\ @author\ Claire\ Li\r\n\ @date\ 06/09/2024\r\n
+comment1.params=button\ snoopy\ counter\ lives
+comment1.target=Object(Button,\ Snoopy,\ Counter,\ Lives)
+comment1.text=\r\n\ Constructor\ default\ -\ Builds\ the\ ball\ object\ to\ start\ at\ a\ random\ rotation\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Ball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ objectSpawn()
+comment3.text=\r\n\ objectSpawn\ -\ Spawns\ a\ new\ object\ ball\ every\ few\ seconds.\r\n
+comment4.params=
+comment4.target=void\ checkSnoopy()
+comment4.text=\r\n\ checkSnoopy\ -\ If\ the\ object\ touches\ Snoopy\ and\ the\ (hit)\ button\ is\ clicked,\ then\ a\ point\ should\ be\ added\ and\ the\ ball\ should\ rotate\ back\r\n
+comment5.params=
+comment5.target=void\ checkEdges()
+comment5.text=\ \r\n\ checkEdges\ -\ Detects\ if\ the\ object\ proceeds\ past\ or\ forth\ an\ image,\r\n\ removes\ the\ image,\ and\ can\ remove\ a\ heart\ life\ away.\r\n
+numComments=6

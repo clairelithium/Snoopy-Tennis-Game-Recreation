@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Instructions
+comment0.text=\r\n\ Instructions\ -\ The\ ending\ instructions,\ initialized\ from\ the\ Coutner\r\n\ or\ Lives\ class,\ shows\ how\ the\ game\ ended.\r\n\ \r\n\ @author\ Claire\ Li\r\n\ @date\ 06/09/2024\r\n
+comment1.params=Target
+comment1.target=Instructions(int)
+comment1.text=\r\n\ Instructions(intTarget)\ -\ Constructor\ to\ build\ the\ instructions\ object\r\n\ Sets\ up\ the\ end\ game,\ stating\ the\ player\ has\ won\ or\ lost\r\n\ Notice\ -\ It\ does\ not\ have\ a\ return\ typelike\ other\ methods\r\n\ This\ will\ be\ enacted\ one\ time\ when\ each\ new\ object\ of\ the\ class\ is\r\n\ built.\r\n
+numComments=2

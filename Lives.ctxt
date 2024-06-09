@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Lives
+comment0.text=\r\n\ Lives\ -\ Presents\ as\ a\ counter\ of\ how\ many\ lives\ are\ left\ of\ the\ game\r\n\ Can\ become\ the\ result\ of\ the\ end\ of\ the\ game\r\n\ \r\n\ @author\ Claire\ Li\r\n\ @date\ 06/09/2024\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Lettuce\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ changeImage()
+comment2.text=\r\n\ changeImage\ -\ Dependent\ on\ the\ previous\ image,\ it\ changes\ images\r\n\ based\ on\ the\ number\ of\ lives\ left\ for\ a\ player.\r\n
+comment3.params=score
+comment3.target=void\ add(int)
+comment3.text=\r\n\ Add\ -\ adds\ a\ new\ score\ value\ to\ the\ current\ counter\ value\r\n
+numComments=4

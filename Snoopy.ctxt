@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Snoopy
+comment0.text=\r\n\ Snoopy\ -\ Actor\ that\ the\ player\ can\ control\r\n\ Helps\ play\ the\ game\ and\ be\ controlled\ by\ keybinds\ and\ the\ hit\ button\r\n\ \r\n\ @author\ Claire\ Li\r\n\ @date\ 06/09/2024\r\n
+comment1.params=counter
+comment1.target=Snoopy(Counter)
+comment1.text=\r\n\ Snoopy(Counter\ counter)\ -\ Constructor\ for\ Snoopy\ for\ counter\ class\r\n
+comment2.params=
+comment2.target=Snoopy()
+comment2.text=\r\n\ Snoopy\ Constructor\ -\ Constructs\ the\ Snoopy\ default\ image\r\n\ in\ the\ beginning\ of\ the\ game.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Snoopy\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=
+comment4.target=void\ moveSnoopy()
+comment4.text=\r\n\ moveSnoopy\ -\ Dependent\ on\ the\ keys\ pressed,\ Snoopy\ is\ able\ to\ \r\n\ move\ at\ 3\ different\ locations\ using\ arrays.\ \r\n
+comment5.params=
+comment5.target=void\ swing()
+comment5.text=\r\n\ Swing\ -\ When\ detected,\ it\ changes\ the\ image\ to\ show\ \r\n\ a\ realistic\ Snoopy\ hitting\ a\ tennis\ ball,\ and\ then\ switches\ back.\r\n
+numComments=6

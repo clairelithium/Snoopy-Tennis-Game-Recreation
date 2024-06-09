@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Grass
+comment0.text=\r\n\ Grass\ -\ Acts\ as\ a\ background\ of\ the\ game,\ spawned\ by\ a\ for\ loop\r\n\ \r\n\ @author\ Claire\ Li\ \r\n\ @date\ 06/09/2024\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Grass\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

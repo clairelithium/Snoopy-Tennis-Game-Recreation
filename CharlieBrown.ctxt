@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CharlieBrown
+comment0.text=\r\n\ CharlieBrown\ -\ Actor\ that\ is\ not\ moved,\ but\ places\ a\ role\ of\r\n\ "serving"\ the\ object.\r\n\ \r\n\ @author\ Claire\ Li\r\n\ @date\ 06/09/2024\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ CharlieBrown\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

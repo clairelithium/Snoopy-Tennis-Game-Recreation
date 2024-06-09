@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Start
+comment0.text=\r\n\ Start\ -\ The\ button\ that\ brings\ from\ the\ StartWorld\ to\ MyWorld\ when\ clicked.\r\n\ \r\n\ @author\ Claire\ Li\r\n\ @date\ 06/09/2024\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2
